@@ -4,8 +4,8 @@ import pdfplumber
 import textwrap
 import json
 # Azure Text Analytics configuration
-key = "7732cfd1a371488084b8343f8cd25235"
-endpoint = "https://try101.cognitiveservices.azure.com/"
+key = "YOUR_TEXT_ANALYTICS_KEY"
+endpoint = "YOUR_TEXT_ANALYTICS_ENDPOINT"
 credential = AzureKeyCredential(key)
 text_analytics_client = TextAnalyticsClient(endpoint=endpoint, credential=credential)
 # Function to extract text from PDF
