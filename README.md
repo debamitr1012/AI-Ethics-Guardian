@@ -1,1 +1,3 @@
 # AI-Ethics-Guardian
+
+AI Ethics Guardian aims to develop a comprehensive Azure-based solution that enables organizations to adopt Generative AI technologies like ChatGPT responsibly and compliantly. The solution automates the generation of monitoring rules from policies, performs real-time risk assessment of AI interactions based on these rules, provides risk-based alerting and prevention mechanisms, and offers administrative control over rule management and risk thresholds. By implementing this solution, organizations can harness the power of AI while ensuring adherence to ethical guidelines, data privacy regulations, and industry-specific compliance requirements.
